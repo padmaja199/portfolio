@@ -7,7 +7,7 @@
     <title>Padmaja</title>
 
     <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600;700&display=swap" rel="stylesheet">
-    <link href="assets/css/style.css" rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
 
 </head>
 
@@ -41,7 +41,7 @@
 
             <div class="profile-container">
                 <!-- Replace with your image -->
-                <img src="assets/image/passport_image_chinky.png"
+                <img src="passport_image_chinky.png"
                     class="profile-img"
                     alt="Profile">
             </div>
@@ -68,7 +68,7 @@
         <div class="about-container">
 
             <div class="about-image">
-                <img src="assets/image/passport_image_chinky.png" alt="About Me">
+                <img src="passport_image_chinky.png" alt="About Me">
             </div>
 
             <div class="about-content">
@@ -351,7 +351,7 @@
         © 2026 Padmaja Priyadarshini | All Rights Reserved
     </footer>
 
-    <script src="assets/js/main.js"></script>
+    <script src="main.js"></script>
 
 </body>
 
